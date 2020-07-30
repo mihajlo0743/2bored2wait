@@ -3,6 +3,9 @@ A proxy to wait out 2b2t.org's way too long queue.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/themoonisacheese?locale.x=fr_FR)
 
+# Changes
+Useless fork rn(nothing changed atm)
+
 # How to install
 1. Download node.js and install it. On non-windows platforms, you also need npm.
 2. Download this repository with the green button (top right of this page). If you downloaded it as zip, unzip it.
